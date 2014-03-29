@@ -1,0 +1,7 @@
+{
+    "require": {
+        "redeyeventures/geopattern": "1.0.*",
+        "klein/klein": "2.0.*",
+        "pyrocms/lex": "2.2.*"
+    }
+}
